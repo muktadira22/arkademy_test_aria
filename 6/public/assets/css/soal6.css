@@ -1,0 +1,11 @@
+.first-row {
+  margin-top: 1%;
+}
+
+inline-display {
+  display: inline;
+}
+
+hr.content {
+  border-color: #000;
+}
